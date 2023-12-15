@@ -1,6 +1,6 @@
 from openai import OpenAI, RateLimitError
 import numpy as np
-client = OpenAI(api_key='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')
+client = OpenAI(api_key='YOUR_API_KEY')
 import base64
 import os
 import random
